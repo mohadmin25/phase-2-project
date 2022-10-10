@@ -352,12 +352,12 @@
           },
           {
          
-            "id": 1,
+            "id": 17,
             "type": "House",
-            "name": "House 1",
+            "name": "House 17",
             "description":
               "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-            "image": "House 1",
+            "image": "House 17",
             "imageLg": "House1Lg",
             "country": "United States",
             "address": "7240C Argyle St. Lawndale, CA 90260",
@@ -367,19 +367,19 @@
             "year": "2016",
             "price": "110000",
             "agent": {
-              "image": "Agent 1",
+              "image": "Agent 17",
               "name": "Patricia Tullert",
               "phone": "0123 456 78910",
             },
           },
           {
             
-            "id": 1,
+            "id": 18,
             "type": "House",
-            "name": "House 1",
+            "name": "House 18",
             "description":
               "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-            "image": "House 1",
+            "image": "House 18",
             "imageLg": "House1Lg",
             "country": "United States",
             "address": "7240C Argyle St. Lawndale, CA 90260",
@@ -389,7 +389,7 @@
             "year": "2016",
             "price": "110000",
             "agent": {
-              "image": "Agent 1",
+              "image": "Agent 18",
               "name": "Patricia Tullert",
               "phone": "0123 456 78910",
             },
