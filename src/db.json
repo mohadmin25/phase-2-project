@@ -13,8 +13,8 @@
             "bedrooms": "6",
           "bathrooms": "3",
             "]surface": '4200 sq ft',
-            "year": '2016',
-            price: '110000',
+            "year": "2016",
+            "price": "110000",
             agent: {
               image: Agent1,
               name: 'Patricia Tullert',
