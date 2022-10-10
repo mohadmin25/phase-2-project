@@ -35,7 +35,7 @@
             "bathrooms": "3",
             "surface": "4200 sq ft",
             "year": "2016",
-            "price": "140000",
+            "price": "1400000",
             "agent": {
               "image": "Agent2",
               "name": '"Daryl Hawker",
@@ -57,7 +57,7 @@
           "bathrooms": "3",
             "]surface": '4200 sq ft',
             "year": "2016",
-            "price": "110000",
+            "price": "1100000",
             "agent": {
               "image": "Agent 3",
               "name": "Fodenel Jacob",
