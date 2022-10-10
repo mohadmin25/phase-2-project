@@ -15,10 +15,10 @@
             "]surface": '4200 sq ft',
             "year": "2016",
             "price": "110000",
-            agent: {
-              image: Agent1,
-              name: 'Patricia Tullert',
-              phone: '0123 456 78910',
+            "agent": {
+              "image": "Agent"1,
+              "name": "Patricia Tullert",
+              "phone": 0123 456 78910,
             },
           },
           {
